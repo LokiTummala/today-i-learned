@@ -21,8 +21,14 @@ if [ "$#" -eq 1 ] && [ $1 == "commit" ]; then
     exit 0
 fi
 
+if [ "$#" -eq 1 ] && [ $1 == "sync" ]; then
+    python3 til_update_readme.py
+    exit $?
+fi
+
 if [ "$#" -lt 2 ]; then
     echo "You must enter at least 2 arguments, first is category, next one is subject, and the last is your Editor (default: $DEFAULT_EDITOR)"
+    echo "Use './til sync' to refresh folder and root README files."
     exit 1
 fi
 
@@ -78,4 +84,3 @@ then
 else
     $EDITOR $MDFILE
 fi
-

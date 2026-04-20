@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60d19a21-049b-4ebe-82cf-ee538ca78934" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SystemDesign/BloomFilters.Md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.oca/custom_code_review_guidelines.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/-tRPC,-gRPC,-GraphQL-or-REST:-when-to-use-what?.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/Build-GQL-api.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/GraphQL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/SOAP-basics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/What-is-OAuth-2.0.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/gRPC:-The-Future-of-Microservices-Communication?.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/graphql-schema-use-case-and-functions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/rest-vs-soap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/what-is-grpc?.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Database-Sharding-and-Partitioning.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Model-Your-Relational-Database-Data-as-NoSQL-Document-Data.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Distributed-System/Distributed-Cache-and-Caching-Strategies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Distributed-System/What-is-CDC?.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golang/Creating-certificate-in-go.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golang/Golang-pointers-+-GC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Golang/Implement-LRU-Cache-in-Golang.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices/2PC-and-3PC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices/API-Composition-Pattern-in-Microservices.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices/Designing-Workflows-in-Microservices-:-Orchestration-vs-Choreography.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Microservices/Handling-timeouts-in-a-microservice-architecture.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming-Languages/Why-do-programming-languages-need-automatic-garbage-collection?.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md.template" beforeDir="false" afterPath="$PROJECT_DIR$/README.md.template" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/til" beforeDir="false" afterPath="$PROJECT_DIR$/til" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/til_update_readme.py" beforeDir="false" afterPath="$PROJECT_DIR$/til_update_readme.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3BxrZx1RBDUnFVMjj970aYNgMuJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/loki/Desktop/personal/repo/today-i-learned&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="today-i-learned" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="today-i-learned" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60d19a21-049b-4ebe-82cf-ee538ca78934" name="Changes" comment="" />
+      <created>1775441621897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775441621897</updated>
+      <workItem from="1775441622915" duration="1454000" />
+      <workItem from="1775487461681" duration="1038000" />
+      <workItem from="1776658512743" duration="734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
