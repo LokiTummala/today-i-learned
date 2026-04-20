@@ -13,14 +13,16 @@ This repo has a tool that help you to manage and write down what you learned in 
 | Summary | Value |
 | --- | --- |
 | Last synced | 2026-04-20 |
-| Total entries | 2 |
+| Total entries | 4 |
 | Folders with entries | 2 |
-| Unique tags | 4 |
+| Unique tags | 6 |
 
 ## Recent Entries
 
 | Title | Folder | Date | Tags |
 | --- | --- | --- | --- |
+| [ThunderingHerd](SystemDesign/ThunderingHerd.md) | SystemDesign | 2026-04-20 | `SystemDesign`, `Cache` |
+| [HTTP Codes and Methods](SystemDesign/HTTP-Codes-and-Methods.md) | SystemDesign | 2026-04-20 | `SystemDesign`, `HTTP` |
 | [BloomFilter](SystemDesign/BloomFilters.md) | SystemDesign | 2026-04-06 | `SystemDesign`, `BloomFilter` |
 | [SQL Joins](Database/SQL/SQLJoins.md) | Database/SQL | 2026-04-06 | `Database`, `SQL` |
 
@@ -36,6 +38,8 @@ This repo has a tool that help you to manage and write down what you learned in 
 
 | Title | Date | Tags | Summary |
 | --- | --- | --- | --- |
+| [ThunderingHerd](SystemDesign/ThunderingHerd.md) | 2026-04-20 | `SystemDesign`, `Cache` | source : ThunderingHerd |
+| [HTTP Codes and Methods](SystemDesign/HTTP-Codes-and-Methods.md) | 2026-04-20 | `SystemDesign`, `HTTP` | source : HTTP Codes and Methods |
 | [BloomFilter](SystemDesign/BloomFilters.md) | 2026-04-06 | `SystemDesign`, `BloomFilter` | source: BloomFilters |
 
 ## Organized by Tag
@@ -44,9 +48,17 @@ This repo has a tool that help you to manage and write down what you learned in 
 
 - [BloomFilter](SystemDesign/BloomFilters.md) (SystemDesign, 2026-04-06)
 
+### `Cache`
+
+- [ThunderingHerd](SystemDesign/ThunderingHerd.md) (SystemDesign, 2026-04-20)
+
 ### `Database`
 
 - [SQL Joins](Database/SQL/SQLJoins.md) (Database/SQL, 2026-04-06)
+
+### `HTTP`
+
+- [HTTP Codes and Methods](SystemDesign/HTTP-Codes-and-Methods.md) (SystemDesign, 2026-04-20)
 
 ### `SQL`
 
@@ -54,6 +66,8 @@ This repo has a tool that help you to manage and write down what you learned in 
 
 ### `SystemDesign`
 
+- [ThunderingHerd](SystemDesign/ThunderingHerd.md) (SystemDesign, 2026-04-20)
+- [HTTP Codes and Methods](SystemDesign/HTTP-Codes-and-Methods.md) (SystemDesign, 2026-04-20)
 - [BloomFilter](SystemDesign/BloomFilters.md) (SystemDesign, 2026-04-06)
 
 

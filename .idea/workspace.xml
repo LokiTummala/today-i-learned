@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60d19a21-049b-4ebe-82cf-ee538ca78934" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SystemDesign/BloomFilters.Md" beforeDir="false" afterPath="$PROJECT_DIR$/SystemDesign/BloomFilters.md" afterDir="false" />
-    </list>
+    <list default="true" id="60d19a21-049b-4ebe-82cf-ee538ca78934" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +62,7 @@
       <updated>1775441621897</updated>
       <workItem from="1775441622915" duration="1454000" />
       <workItem from="1775487461681" duration="1038000" />
-      <workItem from="1776658512743" duration="1331000" />
+      <workItem from="1776658512743" duration="1757000" />
     </task>
     <servers />
   </component>
