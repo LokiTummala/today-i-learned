@@ -1,7 +1,7 @@
 - Date : 2026-04-06
 - Tags : #SystemDesign,#BloomFilter
 
-## SQL Joins
+## BloomFilter
 
 source: [BloomFilters](https://www.youtube.com/watch?v=bgzUdBVr5tE)
 

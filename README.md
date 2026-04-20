@@ -13,14 +13,15 @@ This repo has a tool that help you to manage and write down what you learned in 
 | Summary | Value |
 | --- | --- |
 | Last synced | 2026-04-20 |
-| Total entries | 1 |
-| Folders with entries | 1 |
-| Unique tags | 2 |
+| Total entries | 2 |
+| Folders with entries | 2 |
+| Unique tags | 4 |
 
 ## Recent Entries
 
 | Title | Folder | Date | Tags |
 | --- | --- | --- | --- |
+| [BloomFilter](SystemDesign/BloomFilters.md) | SystemDesign | 2026-04-06 | `SystemDesign`, `BloomFilter` |
 | [SQL Joins](Database/SQL/SQLJoins.md) | Database/SQL | 2026-04-06 | `Database`, `SQL` |
 
 ## Organized by Folder
@@ -31,7 +32,17 @@ This repo has a tool that help you to manage and write down what you learned in 
 | --- | --- | --- | --- |
 | [SQL Joins](Database/SQL/SQLJoins.md) | 2026-04-06 | `Database`, `SQL` | source: SQL Queries |
 
+### [SystemDesign](SystemDesign/README.md)
+
+| Title | Date | Tags | Summary |
+| --- | --- | --- | --- |
+| [BloomFilter](SystemDesign/BloomFilters.md) | 2026-04-06 | `SystemDesign`, `BloomFilter` | source: BloomFilters |
+
 ## Organized by Tag
+
+### `BloomFilter`
+
+- [BloomFilter](SystemDesign/BloomFilters.md) (SystemDesign, 2026-04-06)
 
 ### `Database`
 
@@ -40,6 +51,10 @@ This repo has a tool that help you to manage and write down what you learned in 
 ### `SQL`
 
 - [SQL Joins](Database/SQL/SQLJoins.md) (Database/SQL, 2026-04-06)
+
+### `SystemDesign`
+
+- [BloomFilter](SystemDesign/BloomFilters.md) (SystemDesign, 2026-04-06)
 
 
 # Instruction

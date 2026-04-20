@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d19a21-049b-4ebe-82cf-ee538ca78934" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SystemDesign/BloomFilters.Md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.oca/custom_code_review_guidelines.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/-tRPC,-gRPC,-GraphQL-or-REST:-when-to-use-what?.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/Build-GQL-api.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/GraphQL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/SOAP-basics.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/What-is-OAuth-2.0.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/gRPC:-The-Future-of-Microservices-Communication?.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/graphql-schema-use-case-and-functions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/rest-vs-soap.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/what-is-grpc?.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database/Database-Sharding-and-Partitioning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database/Model-Your-Relational-Database-Data-as-NoSQL-Document-Data.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distributed-System/Distributed-Cache-and-Caching-Strategies.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distributed-System/What-is-CDC?.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golang/Creating-certificate-in-go.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golang/Golang-pointers-+-GC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Golang/Implement-LRU-Cache-in-Golang.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microservices/2PC-and-3PC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microservices/API-Composition-Pattern-in-Microservices.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microservices/Designing-Workflows-in-Microservices-:-Orchestration-vs-Choreography.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Microservices/Handling-timeouts-in-a-microservice-architecture.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming-Languages/Why-do-programming-languages-need-automatic-garbage-collection?.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md.template" beforeDir="false" afterPath="$PROJECT_DIR$/README.md.template" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/til" beforeDir="false" afterPath="$PROJECT_DIR$/til" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/til_update_readme.py" beforeDir="false" afterPath="$PROJECT_DIR$/til_update_readme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SystemDesign/BloomFilters.Md" beforeDir="false" afterPath="$PROJECT_DIR$/SystemDesign/BloomFilters.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +65,7 @@
       <updated>1775441621897</updated>
       <workItem from="1775441622915" duration="1454000" />
       <workItem from="1775487461681" duration="1038000" />
-      <workItem from="1776658512743" duration="734000" />
+      <workItem from="1776658512743" duration="1331000" />
     </task>
     <servers />
   </component>
